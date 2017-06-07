@@ -1,6 +1,8 @@
 import sys
 import math
 
+# 75 % de reussite au test, a ameliorer
+
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 # ---
